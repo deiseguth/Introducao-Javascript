@@ -1,5 +1,5 @@
 # Introdução ao JavaScript
-## Curso da Dio com Stephany Nusch
+### Curso da Dio com Stephany Nusch
 
 #### Links de acesso
 [linkedin dela](https://www.linkedin.com/in/stephanynusch/)
